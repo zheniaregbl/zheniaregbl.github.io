@@ -1,0 +1,332 @@
+@media only screen and (max-width: 695px) {
+    .article1 {
+        width: 344px;
+        padding: 0;
+    }
+
+    .img1 {
+        content: url("images/img3.png");
+        padding: 0;
+        margin: 40px;
+        width: 345px;
+        height: 253px;
+        margin-bottom: 0;
+    }
+
+    .article1 > h1 {
+        font-size: 28px;
+        line-height: 35px;
+        color: #FFFFFF;
+        margin-top: 80px;
+        margin-bottom: 32px;
+    }
+
+    .article1 > p {
+        visibility: hidden;
+        position: relative;
+        height: 62px;
+        margin-bottom: 60px;
+        max-width: 73%;
+    }
+    
+    .article1 > a {
+        font-size: 15px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+
+    .article1 p::after {
+        content: "Наши клиенты получают полный спектр услуг по работе с Китаем. Начиная с подбора производителя заканчивая доставкой товара до двери.";
+        position: absolute;
+        visibility: visible;
+        left: 0;
+        top: 0;
+        font-size: 15px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+
+    .greendiv {
+        width: 100%;
+        height: 766px;
+    }
+
+    .list1 {
+        max-width: 345px;
+        width: 100%;
+        padding-top: 24px;
+        background: #FFFFFF;
+        box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+        border-radius: 20px;
+        height: auto;
+    }
+
+    .list1 > li {
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        max-width: 320px;
+        width: 100%;
+        background: none;
+        box-shadow: none;
+    }
+
+    .list1 > li:first-child {
+        padding: 0;
+    }
+
+    .list1 > li > article {
+        margin-left: 32px;
+        margin-top: 76px;
+    }
+
+    .list1 > li > article > h3 {
+        font-size: 18px;
+        line-height: 135%;
+        width: 219px;
+    }
+
+    .list1 > li > article > p {
+        font-size: 15px;
+        line-height: 150%;
+    }
+
+    .grey-circle {
+        width: 68px;
+        height: 68px;
+        margin-left: 32px;
+    }
+
+    .factory-svg {
+        width: 36px;
+        left: 25%;
+        top: 15%;
+    }
+
+    .manipulator-svg {
+        width: 36px;
+        left: 25%;
+        top: 15%;
+    }
+
+    .box-svg {
+        width: 48px;
+        left: 15%;
+        top: 25%;
+    }
+
+    .section3 {
+        max-width: 345px;
+        margin-bottom: 64px;
+    }
+
+    .div3 > h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .div3 > p {
+        display: none;
+    }
+
+    .grey-rectangle {
+        display: none;
+    }
+
+    .list2 > li {
+        max-height: 176px;
+    }
+
+    .list2 > li > label {
+        padding-left: 24px;
+    }
+
+    .list2 > li > label > h3 {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+
+    .list2 > li > p {
+        margin-left: 67px;
+        max-width: 272px;
+        font-size: 14px;
+    }
+
+    .list2 > li:last-child > p {
+        max-width: 272px;
+        font-size: 14px;
+        margin-top: 26px;
+        margin-left: 67px;
+    }
+
+    .list2 > li > label > h3:last-child {
+        width: 256px;
+    }
+
+    .custom-radio {
+        margin-right: 16px;
+        margin-top: 26px;
+    }
+
+    .section4 {
+        width: 345px;
+        height: 70px;
+        margin: 0 auto;
+    }
+
+    .div5 > h2 {
+        color: #363738;;
+        position: relative;
+        top: 0;
+        right: 0;
+        width: 345px;
+        height: 70px;
+        margin: 0;
+        font-family: 'Exo 2';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .greendiv10 {
+        display: none;
+    }
+    
+    .green-transparent-div10 {
+        display: none;
+    }
+    
+    .greendiv20 {
+        display: none;
+    }
+    
+    .green-transparent-div20 {
+        display: none;
+    }
+
+    .div5 > img {
+        display: none;
+    }
+
+    .section5 {
+        margin-top: 48px;
+        max-width: 345px;
+    }
+
+    .list3 > li {
+        max-width: 345px;
+        margin-left: 0;
+        margin-bottom: 34px;
+
+    }
+
+    .list3 > li:nth-child(2) {
+        max-width: 345px;
+        margin-left: 0;
+        margin-bottom: 34px;
+    }
+
+    .list3 > li:nth-child(4) {
+        max-width: 345px;
+        margin-left: 0;
+        margin-bottom: 34px;
+    }
+
+    .list3 > li > article {
+        margin-left: 66px;
+        height: 70px;
+    }
+
+    .list3 > li > article > h2 {
+        margin-top: 10px;
+        margin-bottom: 3px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .list3 > li > article > p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .grey-circle2 {
+        width: 52px;
+        height: 52px;
+    }
+
+    .lock-svg {
+        width: 28.6px;
+        height: 30.09px;
+        left: 12px;
+        top: 10px;
+    }
+    
+    .blank-svg {
+        width: 25.36px;
+        height: 32.17px;
+        left: 13.5px;
+        top: 11px;
+    }
+    
+    .coin-svg {
+        width: 28.6px;
+        height: 28.6px;
+        left: 12px;
+        top: 12px;
+    }
+    
+    .geo-svg {
+        width: 28.6px;
+        height: 31.9px;
+        left: 12px;
+        top: 10px;
+    }
+
+    .section6 {
+        max-width: 344px;
+    }
+
+    .section6 > h2 {
+        font-size: 28px;
+    }
+
+    .section6 > p {
+        margin-bottom: 32px;
+        margin-top: 24px;
+    }
+
+    .works {
+        max-width: 345px;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .works > li > article {
+        margin-top: 6px;
+    }
+
+    .work-1 {
+        max-width: 345px;
+        width: 100%;
+        margin: 0;
+        max-height: 394px;
+    }
+
+    .work-1 > img {
+        content: url("images/img22.png");
+    }
+
+    .p1 {
+        max-width: 291px;
+        width: 100%;
+    }
+
+    .work-2 {
+        display: none;
+    }
+}
